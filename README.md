@@ -4,8 +4,13 @@
 
 Ableton Live · MoggyDay · 12.4 · v12.4.6
 
-# Ableton Live 12.4 “Pro for Windows: Session view, Suite” [v12.4.6]
+# Ableton Live 12.4 “for Windows: Session view, Suite” [v12.4.6]
 
+<p>
+  <a href="https://moggydayprogram.com/programs/ableton-live"><img src="docs/media/shot-1.jpg" alt="session" width="280"></a>
+  <a href="https://moggydayprogram.com/programs/ableton-live"><img src="docs/media/shot-2.jpg" alt="prefs" width="280"></a>
+  <a href="https://moggydayprogram.com/programs/ableton-live"><img src="docs/media/shot-3.jpg" alt="drums" width="280"></a>
+</p>
 <p><img src="docs/media/logos/ableton-live.svg" alt="Ableton Live" height="48"></p>
 
 MoggyDay keeps one stable URL for Ableton Live: EN / RU. Session view and Suite instruments. 2.9 GB, Windows x64.
