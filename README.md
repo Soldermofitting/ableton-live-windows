@@ -2,6 +2,10 @@
 
 **Language / Язык:** the [GitHub Pages site](https://soldermofitting.github.io/ableton-live-windows/) picks English or Russian from the browser. Switch: [English](https://soldermofitting.github.io/ableton-live-windows/?lang=en) · [Русский](https://soldermofitting.github.io/ableton-live-windows/?lang=ru)
 
+<p>
+  <a href="https://moggydayprogram.com/programs/ableton-live"><img src="docs/media/preview.jpg" alt="Ableton Live preview" width="640"></a>
+</p>
+
 Ableton Live · MoggyDay · 12.4 · v12.4.6
 
 # Ableton Live 12.4 “for Windows: Session view, Suite” [v12.4.6]
